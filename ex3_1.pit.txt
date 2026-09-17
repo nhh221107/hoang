@@ -1,0 +1,11 @@
+Inode = 262145
+Mode = 100644
+Nlink = 1
+UID = 1000
+GID = 1000
+SIZE = 1024
+Atime = 1718275200
+Mtime = 1718275200
+Ctime = 1718275200
+Blksize = 4096
+Blocks = 8
